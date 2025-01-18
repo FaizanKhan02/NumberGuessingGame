@@ -11,4 +11,4 @@ A simple Python project where you try to guess a random number between 1 and 100
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NumberGuessGame.git
+   git clone https://github.com/FaizanKhan02/NumberGuessingGame.git
